@@ -8,6 +8,11 @@
 
 #roof {
     position: absolute;
+    top: 0;
+    width: 500px;
+    background-color: beige;
+    border: 1px dashed brown;
+    height: 150px;
 }
 
 #chimney {
