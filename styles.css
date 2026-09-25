@@ -21,10 +21,18 @@
     width: 100px;
     height: 150px;
     background-color: #a37447;
+    border: 2px solid black;
 }
 
 #window-2 {
     position: absolute;
+    top: 30px;
+    right: 30px;
+    width: 100px;
+    height: 150px;
+    background-color: #a37447;
+    border: 2px solid black;
+
 }
 
 #door {
