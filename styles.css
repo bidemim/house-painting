@@ -6,6 +6,22 @@
     background-color: #406265;
 }
 
-#house id {
-    position: relative;
+#roof {
+    position: absolute;
+}
+
+#chimney {
+    position: absolute;
+}
+
+#window-1 {
+    position: absolute;
+}
+
+#window-2 {
+    position: absolute;
+}
+
+#door {
+    position: absolute;
 }
