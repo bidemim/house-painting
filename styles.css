@@ -16,6 +16,11 @@
 
 #window-1 {
     position: absolute;
+    top: 30px;
+    left: 30px;
+    width: 100px;
+    height: 150px;
+    background-color: #a37447;
 }
 
 #window-2 {
