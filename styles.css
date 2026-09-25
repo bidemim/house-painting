@@ -17,7 +17,13 @@
 
 #chimney {
     position: absolute;
-    top
+    right: 30px;
+    top: -100px;
+    z-index: -1;
+    width: 150px;
+    height: 100px;
+    background-color: burlywood;
+    border: 2px solid #406265;
 }
 
 #window-1 {
