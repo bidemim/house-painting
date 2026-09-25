@@ -1,0 +1,7 @@
+#house {
+    width: 500px;
+    height: 400px;
+    position: relative;
+    border: 3px solid #a37447;
+    background-color: #406265;
+}
