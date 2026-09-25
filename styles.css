@@ -17,6 +17,7 @@
 
 #chimney {
     position: absolute;
+    top
 }
 
 #window-1 {
@@ -42,7 +43,7 @@
 
 #door {
     position: absolute;
-    top: 209px;
+    bottom: 0;
     left: 200px;
     width: 90px;
     height: 190px;
